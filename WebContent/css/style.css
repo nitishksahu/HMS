@@ -1,0 +1,111 @@
+
+
+<style type="text/css">
+.body
+{
+font-family:sans-serif;
+}
+
+#body
+{
+background-image:url('hms.png');
+background-image:height 100%;
+background-image:width 100%;
+}
+
+#header
+{
+background-image:url('header.jpg');
+}
+
+
+p
+{
+
+font-family: Arial sans-serif;
+text-aling: justify;
+font-size: 11px;
+overflow: scroll;
+}
+
+a:link, a:visited
+{
+color:blue;
+font-family=Arial;
+font-size=11pt;
+text-decoration=none;
+}
+
+a:hover
+{
+color:red;
+text-decoration=underline;
+}
+
+h2
+{
+color=maroon;
+text-aling=center;
+text-decoration=bold;
+font-family=Arial;
+font-size=18pt;
+}
+
+h3
+{
+color=maroon;
+text-decoration=bold;
+font-family=Arial;
+font-size=12pt;
+}
+
+#side
+{
+color:red;
+
+}
+
+#side a:hover
+{
+background:black;
+color:yellow;
+}
+	
+	
+
+	table#mytable {
+	font-family: verdana,arial,sans-serif;
+	font-size:11px;
+	color:#333333;
+	border-width: 1px;
+	border-color: #999999;
+	border-collapse: collapse;
+	align: center;
+	valign: middle;
+	
+	width: 100%;
+}
+table.styleTable th {
+	background-color:#c3dde0;
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #a9c6c9;
+		
+}
+table.styleTable tr {
+	background-color:#d4e3e5;
+	height: 100%;
+	width: 100%;
+	align: center;
+	valign: middle;
+}
+table.styleTable td {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #a9c6c9;
+	
+}
+</style>
+
